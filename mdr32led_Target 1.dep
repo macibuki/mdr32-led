@@ -1,0 +1,2 @@
+Dependencies for Project 'mdr32led', Target 'Target 1': (DO NOT MODIFY !)
+F (.\mdr32led.asm)(0x513B50B6)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\Milandr\MDR32F9x --list "mdr32led.lst" --xref -o "mdr32led.o" --depend "mdr32led.d")

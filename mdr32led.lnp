@@ -1,0 +1,5 @@
+--cpu Cortex-M3 "mdr32led.o" 
+--strict --scatter "mdr32led.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\mdr32led.map" -o mdr32led.axf

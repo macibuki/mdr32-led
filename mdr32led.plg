@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\microedev\mdr32led\mdr32led.uvproj
+Project File Date:  03/02/2013
+
+<h2>Output:</h2>
+Clean started: Project: 'mdr32led'
+   deleting intermediate output files for target 'Target 1'
+Rebuild target 'Target 1'
+assembling mdr32led.asm...
+linking...
+mdr32led.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=252 RO-data=0 RW-data=0 ZI-data=0  
+FromELF: creating hex file...
+"mdr32led.axf" - 0 Error(s), 1 Warning(s).
